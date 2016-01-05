@@ -32,8 +32,8 @@ v2.0    ** NOT YET **
     coding is being re-licensed under GPLv2.
     
     TODO:
-  * Remove all hard coded *anything* from the actual module code and move 
-    the texts to define files for the module.
+  * ~~Remove all hard coded *anything* from the actual module code and move 
+    the texts to define files for the module.~~
   * Work on "action buttons" to either remove the image from the database and/or
     delete the actual image file from the store.
   * Instead of just going through one LARGE scan of the database, possibly look
